@@ -13,11 +13,11 @@
 ---
 
 **Що має бути в `.env`:**
-
+```
 BOT_TOKEN=(наприклад, 7715213818:AAGw-0wfhRCs73IJ3xxgXvIrx0p1kCazzIE (@TestTaskExpenseControlBot))
 ADMIN_ID=(наприклад, 1306364171 (дізнатися можна на https://t.me/FIND_MY_ID_BOT))
 SERVER_URL=http://localhost:8000
-
+```
 ---
 
 **Як запустити сервер:**
