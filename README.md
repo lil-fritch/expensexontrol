@@ -23,6 +23,9 @@ SERVER_URL=http://localhost:8000
 **Як запустити сервер:**
 
 1. Перейти в папку `server`
+```
+cd server
+```
 2. Запустити:
 ```
 uvicorn main:app --reload
@@ -32,6 +35,9 @@ uvicorn main:app --reload
 **Як запустити бота:**
 
 1. Перейти в папку `bot`
+```
+cd bot
+```
 2. Запустити:
 ```
 python main.py
